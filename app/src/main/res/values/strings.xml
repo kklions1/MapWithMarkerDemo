@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Map With Marker</string>
+    <string name="title_activity_maps">Map with Marker</string>
+    <string name="marker_options_dialog">Marker Options</string>
+    <string name="marker_create_title">New Marker</string>
+    <string name="button_positive_okay">Confirm</string>
+    <string name="button_negative_delete">Delete</string>
+    <string name="button_neutral_cancel">Cancel</string>
+    <string name="marker_set_description_hint">Description</string>
+    <string name="notification_timer_hint">Alert Time</string>
+</resources>
